@@ -20,5 +20,10 @@ public class ChrononTest1Main {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void notAProgrammersMethod() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
