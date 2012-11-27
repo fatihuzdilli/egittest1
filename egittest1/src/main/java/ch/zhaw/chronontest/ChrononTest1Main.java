@@ -14,5 +14,11 @@ public class ChrononTest1Main {
 		System.out.println(end - start);
 		System.out.println("LAST a: " + a);
 	}
+	
+	
+	private void unnecessaryMethod() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
