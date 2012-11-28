@@ -17,12 +17,9 @@ public class ChrononTest1Main {
 	
 	
 	private void unnecessaryMethod() {
-		// TODO Auto-generated method stub
-
 	}
 	
 	private void notAProgrammersMethod() {
-		// TODO Auto-generated method stub
 
 	}
 
