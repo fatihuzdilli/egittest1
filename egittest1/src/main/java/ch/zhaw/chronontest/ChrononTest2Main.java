@@ -16,9 +16,4 @@ public class ChrononTest2Main {
 		System.out.println("LAST s: " + s);
 	}
 	
-	private void test1() {
-		// TODO Auto-generated method stub
-
-	}
-
 }
