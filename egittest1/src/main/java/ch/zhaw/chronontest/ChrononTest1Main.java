@@ -22,6 +22,7 @@ public class ChrononTest1Main {
 	
 	private void notAProgrammersMethod() {
 		//WHY IS THIS EMPTY?
+		//SO YOU CAN ASK
 	}
 
 }
