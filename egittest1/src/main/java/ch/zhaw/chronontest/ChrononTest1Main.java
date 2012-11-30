@@ -23,7 +23,6 @@ public class ChrononTest1Main {
 	}
 	
 	private void notAProgrammersMethod() {
-		//WHO REMOVED THIS?
 	}
 
 }
