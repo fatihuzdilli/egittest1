@@ -17,7 +17,6 @@ public class ChrononTest1Main {
 	
 	
 	private void unnecessaryMethod() {
-		//IMPORTAANT
 		//CANT WE DELETE THIS?
 	}
 	
