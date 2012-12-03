@@ -16,10 +16,7 @@ public class ChrononTest1Main {
 	}
 	
 	
-	private void unnecessaryMethod() {
-		//IMPORTAANT
-		
-		//SHOULD WE RENAME THIS?
+	private void necessaryMethod() {
 	}
 	
 	private void notAProgrammersMethod() {
