@@ -15,7 +15,7 @@ public class ChrononTest1Main {
 		System.out.println("LAST a: " + a);
 	}
 	
-	private void coolMethod() {
+	private void coolMethodLocal() {
 	}
 	
 	private void notAProgrammersMethod() {
